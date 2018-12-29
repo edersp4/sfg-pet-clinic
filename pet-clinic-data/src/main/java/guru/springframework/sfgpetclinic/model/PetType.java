@@ -2,6 +2,10 @@ package guru.springframework.sfgpetclinic.model;
 
 import guru.springframework.sfgpetclinic.services.BaseEntity;
 
+
+/**
+ * @author
+ */
 public class PetType extends BaseEntity {
 
     private String name;
