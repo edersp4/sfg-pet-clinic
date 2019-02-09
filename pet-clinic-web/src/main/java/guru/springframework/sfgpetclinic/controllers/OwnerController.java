@@ -1,4 +1,4 @@
-package guru.springframework.sfgpetclinic.controller;
+package guru.springframework.sfgpetclinic.controllers;
 
 import guru.springframework.sfgpetclinic.model.Owner;
 import guru.springframework.sfgpetclinic.services.OwnerService;
